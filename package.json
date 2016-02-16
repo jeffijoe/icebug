@@ -1,0 +1,30 @@
+{
+  "name": "icebug",
+  "version": "0.0.1",
+  "description": "A wrapper around node-inspector and nodemon.",
+  "main": "./lib/icebug.js",
+  "bin": "./lib/icebug.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffijoe/icebug.git"
+  },
+  "keywords": [
+    "debugger",
+    "nodemon",
+    "node-inspector",
+    "nodev"
+  ],
+  "author": "Jeff Hansen <jeff@jeffijoe.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeffijoe/icebug/issues"
+  },
+  "homepage": "https://github.com/jeffijoe/icebug#readme",
+  "dependencies": {
+    "nodemon": "^1.8.1",
+    "rc": "^1.1.6"
+  }
+}
