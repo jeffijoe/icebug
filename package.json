@@ -5,6 +5,7 @@
   "main": "./lib/icebug.js",
   "bin": "./lib/icebug.js",
   "scripts": {
+    "lint": "eslint ./lib",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -26,5 +27,8 @@
   "dependencies": {
     "nodemon": "^1.8.1",
     "rc": "^1.1.6"
+  },
+  "devDependencies": {
+    "eslint": "^2.1.0"
   }
 }
