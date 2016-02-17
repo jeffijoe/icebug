@@ -1,6 +1,7 @@
 # icebug
 
-A wrapper around [nodemon](https://npmjs.com/package/nodemon) and [node-inspector](https://npmjs.com/package/node-inspector).
+A wrapper around [nodemon](https://npmjs.com/package/nodemon) and [node-inspector](https://npmjs.com/package/node-inspector) - basically let's you use
+`node-inspector` in watch-mode.
 
 ## Installation
 
