@@ -1,10 +1,10 @@
 {
   "name": "icebug",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A wrapper around node-inspector and nodemon.",
   "main": "./lib/icebug.js",
-  "engines" : {
-    "node" : ">=4.0.0"
+  "engines": {
+    "node": ">=4.0.0"
   },
   "bin": {
     "icebug": "./bin/icebug.js"
