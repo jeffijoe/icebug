@@ -43,15 +43,15 @@ Sample `.icebugrc` file with defaults:
   // node-inspector web port
   "webport": 8080,
   // debugging port
-  "debugport": 5858
+  "debugport": 5858,
   // node-inspector's --save-live-edit
-  edit: true,
+  "edit": true,
   // use debug-brk
-  break: false,
+  "break": false,
   // Additional args to pass to nodemon
-  nodemonargs: '',
+  "nodemonargs": "",
   // Additional args to pass to node-inspector
-  inspectorargs: ''
+  "inspectorargs": ""
 }
 ```
 
