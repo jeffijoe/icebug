@@ -65,7 +65,7 @@ icebug --break --webport=7070
 
 Jeff Hansen - [@Jeffijoe](https://twitter.com/jeffijoe)
 
-Inspiration from [nodev](https://npmjs.com/package/) - the reason I made this module was because `portscanner` which `nodev` uses does not install easily on Windows.
+Inspiration from [nodev](https://npmjs.com/package/nodev) - the reason I made this module was because `portscanner` which `nodev` uses does not install easily on Windows.
 
 ## License
 
