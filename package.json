@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "A wrapper around node-inspector and nodemon.",
   "main": "./lib/icebug.js",
-  "bin": "./lib/icebug.js",
+  "bin": {
+    "icebug": "./bin/icebug.js"
+  },
   "scripts": {
     "start": "node ./lib/icebug.js",
     "lint": "eslint ./lib",
@@ -26,6 +28,7 @@
   },
   "homepage": "https://github.com/jeffijoe/icebug#readme",
   "dependencies": {
+    "node-inspector": "^0.12.6",
     "nodemon": "^1.8.1",
     "rc": "^1.1.6"
   },
