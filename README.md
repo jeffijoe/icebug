@@ -2,8 +2,6 @@
 
 A wrapper around [nodemon](https://npmjs.com/package/nodemon) and [node-inspector](https://npmjs.com/package/node-inspector).
 
-Inspiration from [nodev](https://npmjs.com/package/)
-
 ## Installation
 
 Install it from npm:
@@ -65,6 +63,8 @@ icebug --break --webport=7070
 ## Author
 
 Jeff Hansen - [@Jeffijoe](https://twitter.com/jeffijoe)
+
+Inspiration from [nodev](https://npmjs.com/package/) - the reason I made this module was because `portscanner` which `nodev` uses does not install easily on Windows.
 
 ## License
 
