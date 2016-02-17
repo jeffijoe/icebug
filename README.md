@@ -1,5 +1,8 @@
 # icebug
 
+[![npm version](https://badge.fury.io/js/icebug.svg)](https://badge.fury.io/js/icebug)
+[![Dependency Status](https://david-dm.org/jeffijoe/icebug.svg)](https://david-dm.org/jeffijoe/icebug)
+
 A wrapper around [nodemon](https://npmjs.com/package/nodemon) and [node-inspector](https://npmjs.com/package/node-inspector) - basically let's you use
 `node-inspector` in watch-mode.
 
