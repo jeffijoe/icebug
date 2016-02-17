@@ -1,0 +1,14 @@
+{
+  // node-inspector web port
+  "webport": 8080,
+  // debugging port
+  "debugport": 5858,
+  // node-inspector's --save-live-edit
+  "edit": true,
+  // use debug-brk
+  "break": false,
+  // Additional args to pass to nodemon - here it's the extensions to watch.
+  "nodemonargs": "-e js,txt",
+  // Additional args to pass to node-inspector
+  "inspectorargs": ""
+}
