@@ -1,6 +1,6 @@
 {
   "name": "icebug",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "A wrapper around node-inspector and nodemon.",
   "main": "./lib/icebug.js",
   "engines": {
