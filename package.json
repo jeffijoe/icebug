@@ -32,11 +32,11 @@
   },
   "homepage": "https://github.com/jeffijoe/icebug#readme",
   "dependencies": {
-    "node-inspector": "^0.12.8",
-    "nodemon": "^1.9.1",
-    "rc": "^1.1.6"
+    "node-inspector": "^1.1.1",
+    "nodemon": "^1.11.0",
+    "rc": "^1.2.1"
   },
   "devDependencies": {
-    "eslint": "^2.7.0"
+    "eslint": "^3.19.0"
   }
 }
